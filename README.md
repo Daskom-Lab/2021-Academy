@@ -15,6 +15,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
 - [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN]
   > Sebagai mentee
 
+
 # Contents
 
 - [Challenges](./challenges)  
