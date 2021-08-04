@@ -8,9 +8,9 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
 
 - [Adhi Muhammad Fahmi](https://github.com/adhiiimf) [AMF]
   > Sebagai mentor
-- [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
-  > Sebagai mentor
 - [Iga Narendra Pramawijaya](https://github.com/IritaSee) [AND]
+  > Sebagai mentor
+- [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > Sebagai mentor
 
 # Contents
