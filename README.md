@@ -12,6 +12,8 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentor
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > Sebagai mentor
+- [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN]
+  > Sebagai mentee
 - [Soediponegoro](https://github.com/Soedipo) [DIP]
   > Sebagai mentee
 
