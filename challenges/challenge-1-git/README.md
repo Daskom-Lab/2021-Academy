@@ -16,5 +16,3 @@ Contohnya:
 # Hint(s)
 
 Ada banyak fitur yang ada pada git, dan beberapa yang paling penting diantaranya adalah commit dan branching nya.
-
-dan issue pull request juga sih hehe
