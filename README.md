@@ -13,7 +13,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > Sebagai mentor
 - [Soediponegoro](https://github.com/Soedipo) [DIP]
-  > Sebagai mentee
+  > Sebagai menteee
   
 # Contents
 
