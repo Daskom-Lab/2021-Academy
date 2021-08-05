@@ -12,7 +12,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentor
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > Sebagai mentor
-- [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN]
+- [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN] 
   > Sebagai mentee
 - [Soediponegoro](https://github.com/Soedipo) [DIP]
   > Sebagai mentee
@@ -27,3 +27,6 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
 
 - [Challenges](./challenges)  
   Berisi challenge-challenge yang ada selama academy nya berlangsung yang akan dikerjakan oleh para pejuangnya.
+
+- [Resources](./resources)  
+  Berisi sumber belajar para academian yang terdiri dari berbagai disiplin ilmu dalam informatika dan elektronika.
