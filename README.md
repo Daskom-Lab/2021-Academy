@@ -18,6 +18,8 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee
 - [Muhammad Akmal Falih Rizqullah](https://github.com/akmalfalih) [AKM]
   > Sebagai mentee
+- [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
+  > Sebagai mentee
 
 # Contents
 
