@@ -21,3 +21,6 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
 
 - [Challenges](./challenges)  
   Berisi challenge-challenge yang ada selama academy nya berlangsung yang akan dikerjakan oleh para pejuangnya.
+
+- [Resources](./resources)  
+  Berisi sumber belajar para academian yang terdiri dari berbagai disiplin ilmu dalam informatika dan elektronika.
