@@ -20,6 +20,8 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee
 - [I Putu Gede Rusma Wirawan](https://github.com/rusmajunior) [RUS]
   > Sebagai mentee
+- [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
+  > Sebagai mentee
 
 # Contents
 
