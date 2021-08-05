@@ -8,7 +8,7 @@ Banyak di antara kita yang sedang belajar machine learning mendapatkan miskonsep
 
 2) Why is my validation loss is lower than my training loss
 \
-seringkali dalam kasus pembuatan model ML/DL kita tranining lalu di ukur hasil training per iterasi dengan data validasi. Logikanya validation loss lebih tinggi dari training loss karena data validasi dia baru lihat pertama kali jadi kemungkinan salahnya lebih tinggi... tapi ada lho kasus sebaliknya. Ini merupakan gejala kalau model kita perlu di tune ulang untuk menghindari underfitting, osilasi, dan bahkan overfitting di iterasi-iterasi selanjutnya. Nah PDF ini membahas mengapa hal itu bisa terjadi dan apa yang harus dilakukan.
+Seringkali dalam kasus pembuatan model ML/DL kita tranining lalu di ukur hasil training per iterasi dengan data validasi. Logikanya validation loss lebih tinggi dari training loss karena data validasi dia baru lihat pertama kali jadi kemungkinan salahnya lebih tinggi... tapi ada lho kasus sebaliknya. Ini merupakan gejala kalau model kita perlu di tune ulang untuk menghindari underfitting, osilasi, dan bahkan overfitting di iterasi-iterasi selanjutnya. Nah PDF ini membahas mengapa hal itu bisa terjadi dan apa yang harus dilakukan.
 
 
 3) An overview of gradient descent (based) optimization \
