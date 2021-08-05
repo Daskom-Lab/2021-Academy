@@ -22,6 +22,8 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee
 - [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
   > Sebagai mentee
+- [Fahira Qaulifa](https://github.com/fahiraq) [FAQ]
+  > Sebagai mentee
 
 # Contents
 
