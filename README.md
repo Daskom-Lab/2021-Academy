@@ -16,6 +16,12 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee
 - [Soediponegoro](https://github.com/Soedipo) [DIP]
   > Sebagai mentee
+- [Muhammad Akmal Falih Rizqullah](https://github.com/akmalfalih) [AKM]
+  > Sebagai mentee
+- [I Putu Gede Rusma Wirawan](https://github.com/rusmajunior) [RUS]
+  > Sebagai mentee
+- [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
+  > Sebagai mentee
 
 # Contents
 
