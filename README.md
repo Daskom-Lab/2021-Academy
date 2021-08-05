@@ -6,15 +6,15 @@ Selamat datang kalian semua pada pejuang coding yang ingin berjuang untuk mengik
 
 Berikut merupakan orang-orang yang mengikuti academy ini :
 
-- [Adhi Muhammad Fahmi](https://github.com/adhiiimf) [AMF 2019]
+- [Adhi Muhammad Fahmi](https://github.com/adhiiimf) [AMF]
   > Sebagai mentor
-- [Iga Narendra Pramawijaya](https://github.com/IritaSee) [AND 2018]
+- [Iga Narendra Pramawijaya](https://github.com/IritaSee) [AND]
   > Sebagai mentor
-- [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI 2017]
+- [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
   > Sebagai mentor
-- [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN 2020] 
+- [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN] 
   > Sebagai mentee
-- [Soediponegoro](https://github.com/Soedipo) [DIP 2020]
+- [Soediponegoro](https://github.com/Soedipo) [DIP]
   > Sebagai mentee
 
 # Contents
