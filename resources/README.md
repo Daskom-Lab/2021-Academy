@@ -7,3 +7,4 @@ Selamat datang di folder `resources` dimana kita akan menyimpan sumber-sumber be
 1) URL. Good videos, good article to read. Typically 5-10 minutes read.
 2) Books, Heavy chunk of PDFs and any other ebooks format
 3) Tutorials, Delivered with URL but have a different type because sometimes we need to differentiate tutorials with articles
+4) **Critical**, kalau yang di share disini biasanya cukup tahu, tapi kalau yang ini **harus tahu**
