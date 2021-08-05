@@ -11,5 +11,6 @@ Banyak di antara kita yang sedang belajar machine learning mendapatkan miskonsep
 Seringkali dalam kasus pembuatan model ML/DL kita tranining lalu di ukur hasil training per iterasi dengan data validasi. Logikanya validation loss lebih tinggi dari training loss karena data validasi dia baru lihat pertama kali jadi kemungkinan salahnya lebih tinggi... tapi ada lho kasus sebaliknya. Ini merupakan gejala kalau model kita perlu di tune ulang untuk menghindari underfitting, osilasi, dan bahkan overfitting di iterasi-iterasi selanjutnya. Nah PDF ini membahas mengapa hal itu bisa terjadi dan apa yang harus dilakukan.
 
 
-3) An overview of gradient descent (based) optimization \
+3) An overview of gradient descent (based) optimization 
+\
 Kita mungkin tau berbagai fungsi optimisasi yang ada seperti Stochastic Gradient Descend (SGD), atau variasinya seperti Adam dan Momentum. Tapi apa sih sebenarnya itu dan bagaimana perumusannya? Di PDF ini kita akan mendapatkan semuanya termasuk rumus yang di jalankan di tiap iterasi sehingga membuat model lebih baik lagi bercermin dari kesalahan yang di tampilkan loss function. (Peringatan: intensive math inside)

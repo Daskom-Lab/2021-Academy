@@ -3,11 +3,11 @@ Berfungsi agar bila kita ingin mencari suatu topik khusus, gak perlu buka semua 
 
 1) Data Science Cheatsheet
 \
-berisi nyaris semua rumus, paradigma, tahapan, 'jurus' dan permodelan bila ingin menyelesaikan suatu masalah dengan pendekatan sains data dan kecerdasan buatan. (Peringatan: math inside).
+Berisi nyaris semua rumus, paradigma, tahapan, 'jurus' dan permodelan bila ingin menyelesaikan suatu masalah dengan pendekatan sains data dan kecerdasan buatan. (Peringatan: math inside).
 
 2) (**Critical**) Beda Korelasi dan Kausalitas
 \
-ini adalah yang membedakan logika orang biasa dan logika kita yang ingin mendalami sains data.  **Korelasi tidak menyebabkan kausalitas**. Wajib dibaca buat yang ingin mendalami learning path sains data dan kecerdasan buatan. Karena minimal kita harus bisa membedakan korelasi dan kausalitas.
+Ini adalah yang membedakan logika orang biasa dan logika kita yang ingin mendalami sains data.  **Korelasi tidak menyebabkan kausalitas**. Wajib dibaca buat yang ingin mendalami learning path sains data dan kecerdasan buatan. Karena minimal kita harus bisa membedakan korelasi dan kausalitas.
 
 3) Data Analysis Report Example
 \
