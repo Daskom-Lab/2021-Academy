@@ -18,6 +18,8 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee
 - [Muhammad Akmal Falih Rizqullah](https://github.com/akmalfalih) [AKM]
   > Sebagai mentee
+- [I Putu Gede Rusma Wirawan](https://github.com/rusmajunior) [RUS]
+  > Sebagai mentee
 
 # Contents
 
