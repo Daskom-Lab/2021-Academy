@@ -24,6 +24,8 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee
 - [Fahira Qaulifa](https://github.com/fahiraq) [FAQ]
   > Sebagai mentee
+- [Mohamad Yusril](https://github.com/usereall) [RIL]
+  > Sebagai mentee
 
 # Contents
 
