@@ -7,11 +7,14 @@ Selamat datang kalian semua pada pejuang coding yang ingin berjuang untuk mengik
 Berikut merupakan orang-orang yang mengikuti academy ini :
 
 - [Adhi Muhammad Fahmi](https://github.com/adhiiimf) [AMF]
-  > Sebagai mentor
+  > Sebagai mentor  
+  > Website link -> https://adhimf.my.id/
 - [Iga Narendra Pramawijaya](https://github.com/IritaSee) [AND]
-  > Sebagai mentor
+  > Sebagai mentor  
+  > Website link -> https://iganarendra.my.id/
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
-  > Sebagai mentor
+  > Sebagai mentor  
+  > Website link -> https://justak.id/
 - [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN] 
   > Sebagai mentee
 - [Soediponegoro](https://github.com/Soedipo) [DIP]
