@@ -1,10 +1,10 @@
 # WELCOME TO JS PART
 <div style="text-align: justify">
 
-Selamat datang di part **`JS`**, jadi kalian disini akan kami beri beberapa referensi untuk mempelajari, memahami, dan mengimplementasikan **`JS`** yang nantikan dipadukan dengan `CSS` dan `HTML`. berikut link tentang HTML:
+Selamat datang di part **`JS`**, jadi kalian disini akan kami beri beberapa referensi untuk mempelajari, memahami, dan mengimplementasikan **`JS`** yang nantikan dipadukan dengan `CSS` dan `HTML`. berikut link tentang JS:
 - - -
 # REFERENCES
->pilih yang menurut kalian paling kalian nyaman ikuti dan poin terpentingnya yaitu kalian paham konsep HTML dan berhasil dalam mengimplementasikannya, selamat belajar hal baru 😉
+>pilih yang menurut kalian paling kalian nyaman ikuti dan poin terpentingnya yaitu kalian paham konsep JS dan berhasil dalam mengimplementasikannya, selamat belajar hal baru 😉
 1) [article] [general about javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/About_JavaScript)
 1) [article] [What is javascript?](https://www.freecodecamp.org/news/what-is-javascript-definition-of-js/)
 3) [video] [Tutorial FULL COURSE](https://www.youtube.com/watch?v=PkZNo7MFNFg)
