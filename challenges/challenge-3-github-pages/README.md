@@ -19,7 +19,9 @@ Berikut metric yang akan dilihat untuk mengukur tingkat kebagusan dari web kalia
 
 # How to send your work
 
-Create a pull request mentioning this issue (https://github.com/Daskom-Lab/2021-Academy/issues/14) to add your website link to the readme file of this repository.
+Create a pull request mentioning the issue that match your name, for example: `FEY` have made a PR here (https://github.com/Daskom-Lab/2021-Academy/pull/15) that link his own issue here (https://github.com/Daskom-Lab/2021-Academy/issues/16) to add your website link to the readme file of this repository.
+
+We have created the issue for all of you, so you just have to link it in your PR.
 
 # Hint(s)
 
