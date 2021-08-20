@@ -27,7 +27,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee
 - [Ferry Chandra](https://github.com/ferry5245) [FEY]
   > Sebagai mentee  
-  > Website link -> https://ferry5245.github.io
+  > Website link -> https://ferry5245.github.io/
 - [Fahira Qaulifa](https://github.com/fahiraq) [FAQ]
   > Sebagai mentee
 - [Mohamad Yusril](https://github.com/usereall) [RIL]
