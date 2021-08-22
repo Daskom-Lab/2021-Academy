@@ -32,7 +32,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
 - [Fahira Qaulifa](https://github.com/fahiraq) [FAQ]
   > Sebagai mentee
 - [Mohamad Yusril](https://github.com/usereall) [RIL]
-  > Sebagai mentee
+  > Sebagai mentee 
   > Website link -> https://usereall.github.io/
 
 # Contents
