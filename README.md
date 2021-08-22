@@ -29,7 +29,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee  
   > Website link -> https://ferry5245.github.io/
 - [Fahira Qaulifa](https://github.com/fahiraq) [FAQ]
-  > Sebagai mentee
+  > Sebagai mentee  
   > website link -> https://fahiraq.github.io/
 - [Mohamad Yusril](https://github.com/usereall) [RIL]
   > Sebagai mentee
