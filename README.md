@@ -17,6 +17,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Website link -> https://justak.id/
 - [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN] 
   > Sebagai mentee
+  > Website link -> https://dinudinni.github.io/
 - [Soediponegoro](https://github.com/Soedipo) [DIP]
   > Sebagai mentee
 - [Muhammad Akmal Falih Rizqullah](https://github.com/akmalfalih) [AKM]
