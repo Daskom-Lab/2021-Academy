@@ -24,7 +24,8 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee  
   > Website link -> https://akmalfalih.github.io/
 - [I Putu Gede Rusma Wirawan](https://github.com/rusmajunior) [RUS]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://rusmajunior.github.io/Junior-Website/
 - [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
   > Sebagai mentee
 - [Ferry Chandra](https://github.com/ferry5245) [FEY]
