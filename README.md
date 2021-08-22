@@ -20,6 +20,7 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Website link -> https://dinudinni.github.io/
 - [Soediponegoro](https://github.com/Soedipo) [DIP]
   > Sebagai mentee
+  > Website link -> https://soedipo.github.io/
 - [Muhammad Akmal Falih Rizqullah](https://github.com/akmalfalih) [AKM]
   > Sebagai mentee  
   > Website link -> https://akmalfalih.github.io/
