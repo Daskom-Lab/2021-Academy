@@ -28,7 +28,8 @@ Berikut merupakan orang-orang yang mengikuti academy ini :
   > Sebagai mentee  
   > Website link -> https://rusmajunior.github.io/Junior-Website/
 - [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://rofiansyah.github.io/
 - [Ferry Chandra](https://github.com/ferry5245) [FEY]
   > Sebagai mentee  
   > Website link -> https://ferry5245.github.io/
