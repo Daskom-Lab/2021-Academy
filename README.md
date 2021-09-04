@@ -7,27 +7,38 @@ Selamat datang kalian semua pada pejuang coding yang ingin berjuang untuk mengik
 Berikut merupakan orang-orang yang mengikuti academy ini :
 
 - [Adhi Muhammad Fahmi](https://github.com/adhiiimf) [AMF]
-  > Sebagai mentor
+  > Sebagai mentor  
+  > Website link -> https://adhimf.my.id/
 - [Iga Narendra Pramawijaya](https://github.com/IritaSee) [AND]
-  > Sebagai mentor
+  > Sebagai mentor  
+  > Website link -> https://iganarendra.my.id/
 - [Muhammad Fakhri Putra Supriyadi](https://github.com/fakhrip) [FAI]
-  > Sebagai mentor
+  > Sebagai mentor  
+  > Website link -> https://justak.id/
 - [Dini Rizqi Amalia](https://github.com/dinudinni) [DIN] 
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://dinudinni.github.io/
 - [Soediponegoro](https://github.com/Soedipo) [DIP]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://soedipo.github.io/
 - [Muhammad Akmal Falih Rizqullah](https://github.com/akmalfalih) [AKM]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://akmalfalih.github.io/
 - [I Putu Gede Rusma Wirawan](https://github.com/rusmajunior) [RUS]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://rusmajunior.github.io/Junior-Website/
 - [Wizman Rofiansyah](https://github.com/Rofiansyah) [WIZ]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://rofiansyah.github.io/
 - [Ferry Chandra](https://github.com/ferry5245) [FEY]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://ferry5245.github.io/
 - [Fahira Qaulifa](https://github.com/fahiraq) [FAQ]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > website link -> https://fahiraq.github.io/
 - [Mohamad Yusril](https://github.com/usereall) [RIL]
-  > Sebagai mentee
+  > Sebagai mentee  
+  > Website link -> https://usereall.github.io/
 
 # Contents
 
