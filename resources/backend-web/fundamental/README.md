@@ -10,4 +10,8 @@ Berfungsi agar bila kita ingin mencari suatu topik khusus, gak perlu buka semua 
 \
 SQL merupakan `Structured Query Language` yang didesain untuk memfasilitasi dalam pengolahan data seperti edit, create, dan pengambilan informasi dari sebuah `Database`. Atau secara simpel nya bisa dibilang bahwa SQL adalah Bahasa untuk Dabatase.
     - lihat lebih lanjut: [Click this link](sql.md)
+2. PHP 📘
+\
+PHP (recursive acronym for PHP: Hypertext Preprocessor) adalah Bahasa Pemrograman yang berguna untuk backend dalam suatu pengembangan website, dan php bekerja pada server-side bukan pada client-side seperti javascript dan html.
+    - lihat lebih lanjut: [Click this link](php.md)
 </div>
