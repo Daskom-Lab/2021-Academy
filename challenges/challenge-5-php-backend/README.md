@@ -22,3 +22,13 @@ User/Client ->
 # Hint(s)
 
 Resource untuk bahasan ini bisa kalian akses di folder [resources/backend-web](https://github.com/Daskom-Lab/2021-Academy/tree/main/resources/backend-web).
+
+# Submission
+
+Step untuk men-submit hasil backend yang kalian sudah buat adalah sebagai berikut:
+
+1. Kalian membuat repo pada github
+2. Masukkan code backend nya kedalam repo yang sudah kalian buat
+3. Fork repo ini jika belum (update fork nya dengan cara pull repo ini jika sudah fork sebelumnya)
+4. Tambahkan nama kalian dan repo backend nya sesuai dengan contoh yang telah diberikan, pada [submission list](./submission.md)
+5. Buat pull request kepada repo ini dan tag mentor seperti biasa untuk reviewer nya
